@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Netflix Landing Page Clone
 
 A Netflix-inspired streaming service landing page
